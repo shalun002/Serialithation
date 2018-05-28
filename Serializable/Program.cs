@@ -92,7 +92,6 @@ namespace Serializable
             }
         }
 
-
         static object SoapDeserialize() // object = Person
         {
             object person = null;
